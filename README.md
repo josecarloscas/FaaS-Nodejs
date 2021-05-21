@@ -1,6 +1,6 @@
 # FaaS-Nodejs
 
-Implementacion de FaaS con las funciones de Azure y Node.js
+Implementacion de FaaS con las funciones de Azure y Node.js para el Servicio de materiales o productos disponibles en SEFOC.
 
 Funciones:
 
