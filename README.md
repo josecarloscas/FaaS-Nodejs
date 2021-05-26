@@ -2,6 +2,10 @@
 
 Implementacion de FaaS con Azure Functions y Node.js para el Servicio de materiales o productos disponibles en SEFOC.
 
+- Jose Carlos Castro Castillo
+- Nicolás Daniel Almanza Soto
+- Jhon Harold Beleño Garces
+
 Funciones:
 
         CreateProduct: [POST] http://localhost:7071/api/products
